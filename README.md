@@ -35,7 +35,7 @@ Your end product of this challenge should look something like below, though it d
 
 If you use pen and paper to create the design, take a picture with your phone and send the image to yourself. If you use software to create the database diagram, export in the image format (JPG or PNG). Either way, the image will be submitted as one of the deliverables.
 
-## Challenge 2 - Create the Database and Tables
+## Challenge 2 - Create the Database and Tables.
 
 1. **Create a MySQL database for this lab.** You can do so in the command line like this:
 
